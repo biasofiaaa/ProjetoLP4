@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoLP4">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoLP4</output-path>
+    <root id="archive" name="ProjetoLP4.jar" />
+  </artifact>
+</component>
